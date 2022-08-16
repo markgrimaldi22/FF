@@ -1,0 +1,23 @@
+body {
+background-color: #EAF6F6;
+
+}
+hr {
+  background-color: yellow;
+  border-style: none:
+  height: 2px;
+}
+h1 {
+  color: #16537e;
+}
+h3 {  color: #668f8f;
+
+}
+h2 {
+    color: #16537e;
+}
+
+img:hover {
+  background-color: gold;
+
+}
